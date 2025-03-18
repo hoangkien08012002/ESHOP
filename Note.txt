@@ -1,0 +1,22 @@
+<ul role="menu" class="sub-menu">
+<li><a asp-action="Index" asp-controller="Category">Categories</a></li> 
+@*Nếu k có asp-action thì tự động nhảy vào index*@
+
+</ul>
+
+------------------------------------------------------
+public class CartController : Controller
+{
+	public IActionResult Index()
+	{
+		return View();
+	}
+    public IActionResult Checkout()
+    {
+        return View("~/Views/Checkout/Index.cshtml");
+    }
+}
+--> mapping controller với View thủ công,
+ Nếu để Return() thì sẽ k thể mapping với folder Checkout trong view  do Checkout không phải là controller
+
+---------------------------------------------------------

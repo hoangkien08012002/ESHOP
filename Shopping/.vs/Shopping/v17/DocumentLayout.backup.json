@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Self_study\\EShopper\\Shopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\repository\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\repository\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|d:\\self_study\\eshopper\\shopping\\shopping\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5968FC9C-2FDB-49CF-9E93-93BBC14C3D77}|Shopping\\Shopping.csproj|solutionrelative:shopping\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping\\Program.cs",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Program.cs",
+              "RelativeToolTip": "Shopping\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:08:13.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Repository\\SeedData.cs",
+              "RelativeDocumentMoniker": "Shopping\\Repository\\SeedData.cs",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Repository\\SeedData.cs",
+              "RelativeToolTip": "Shopping\\Repository\\SeedData.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:40:00.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "Shopping\\Repository\\DataContext.cs",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Repository\\DataContext.cs",
+              "RelativeToolTip": "Shopping\\Repository\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:27:38.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "Shopping\\Models\\CategoryModel.cs",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "Shopping\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:02:42.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Shopping\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Shopping\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:28:41.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrandModel.cs",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Models\\BrandModel.cs",
+              "RelativeDocumentMoniker": "Shopping\\Models\\BrandModel.cs",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Models\\BrandModel.cs",
+              "RelativeToolTip": "Shopping\\Models\\BrandModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:05:34.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Shopping\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Shopping\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:02:41.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shopping\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T09:01:12.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Shopping\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Shopping\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAHgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T08:58:05.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "Shopping\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T08:52:39.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Shopping\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T08:47:41.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Shopping\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Shopping\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T08:44:53.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Shopping\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T08:38:26.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Shopping\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Shopping\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:32:56.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Shopping\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Self_study\\EShopper\\Shopping\\Shopping\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Shopping\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:26:12.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
